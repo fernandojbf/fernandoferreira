@@ -1,0 +1,27 @@
+{
+  "name": "fernandoferreira",
+  "version": "0.0.1",
+  "description": "fernandoferreira.dev project",
+  "main": "index.js",
+  "repository": "git@github.com:fernandojbf/fernandoferreira.git",
+  "author": "Fernando Ferreira <fernandojbferreira@gmail.com>",
+  "license": "Unlicense",
+  "private": true,
+  "dependencies": {
+    "next": "^12.0.2",
+    "react": "^18.0.0-alpha-5cccacd13-20211101",
+    "react-dom": "^18.0.0-alpha-5cccacd13-20211101"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.33",
+    "eslint": "<8.0.0",
+    "eslint-config-next": "^12.0.2",
+    "typescript": "^4.4.4"
+  }
+}

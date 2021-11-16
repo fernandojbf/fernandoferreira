@@ -8,9 +8,10 @@
   "license": "Unlicense",
   "private": true,
   "dependencies": {
-    "next": "^12.0.2",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "next": "^12.0.4",
+    "next-compose-plugins": "^2.2.1",
+    "react": "^18.0.0-beta-96ca8d915-20211115",
+    "react-dom": "^18.0.0-beta-96ca8d915-20211115"
   },
   "scripts": {
     "dev": "next dev",
@@ -19,9 +20,9 @@
     "lint": "next lint"
   },
   "devDependencies": {
-    "@types/react": "^17.0.33",
+    "@types/react": "^17.0.34",
     "eslint": "<8.0.0",
-    "eslint-config-next": "^12.0.2",
+    "eslint-config-next": "^12.0.4",
     "typescript": "^4.4.4"
   }
 }
